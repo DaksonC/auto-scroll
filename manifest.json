@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Auto Scroll",
-  "description": "Movimenta o scroll automaticamente",
+  "description": "Move o scroll automaticamente. Um clique para iniciar e outro para parar.",
   "version": "0.1",
   "icons": {
     "16": "icons/icon-16.png",
